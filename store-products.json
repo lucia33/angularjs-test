@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Rose",
+    "description": "Rose petals suitable for medicinal purposes must yield a deep rose-colored, astringent, and fragrant infusion when boiling water is poured upon them.",
+    "price": 7.99,
+    "rarity": 5,
+    "color": "red",
+    "images": [
+      "images/rose.jpg"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "Osmanthus",
+    "description": "Warms stomach, improves digestion, treats intestinal diseases and reduces the amount of stomach gas.",
+    "price": 9.99,
+    "rarity": 7,
+    "color": "yellow",
+    "images": [
+      "images/osmanthus.jpg"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "Jasmine",
+    "description": "Breathing in the scent of jasmine has the power to release feel-good brain chemicals that boost energy as well as reduce anxiety.",
+    "price": 8.99,
+    "rarity": 6,
+    "color": "white",
+    "images": [
+      "images/jasmine.jpg"
+    ],
+    "reviews": []
+  }
+]
